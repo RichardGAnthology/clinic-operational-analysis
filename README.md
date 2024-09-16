@@ -39,7 +39,7 @@ Each visualization comes with annotations to make it easier to spot the trends. 
 
 ## Check Out the Dashboard
 
-You can view the interactive Tableau dashboard here.
+You can view the interactive Tableau dashboard here: https://public.tableau.com/app/profile/richard.g2349/viz/RichardGTestReport/PatientTimeDashboard.
 
 ## How to Use This Repo
 

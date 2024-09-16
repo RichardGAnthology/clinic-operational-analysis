@@ -33,9 +33,22 @@ I've highlighted these insights in the Tableau dashboard, which you can check ou
 I used Tableau to create a dashboard that brings these insights to life. Here’s what's included:
 
     Bar Chart: Comparing service time, wait time, and total time spent relative to appointment times.
+![image](https://github.com/user-attachments/assets/e93665e8-743c-4efa-98e9-f3268a51b7d2)
+
     Line Chart: Showing how wait times fluctuate throughout the day.
 
 Each visualization comes with annotations to make it easier to spot the trends. You can play around with the filters to explore different times of the day.
+
+Process Mapping
+
+To understand the operational flow of the clinic, I also created process maps using Diagrams.net. These maps helped in visualizing the patient journey and identifying potential bottlenecks in the process:
+
+    Current State Process Map: Outlines the existing patient flow from check-in to departure. This helped identify where the longest delays were occurring.
+![image](https://github.com/user-attachments/assets/bc45b6a7-7a50-49d0-abe8-a4d51f3e1540)
+
+    Future State Process Map: Suggested an optimized patient flow based on the insights gathered from the data analysis. This map aims to reduce wait times and streamline the consultation process.
+
+These process maps provide a more holistic view of the clinic's operations and highlight opportunities for improvement.
 
 ## Check Out the Dashboard
 

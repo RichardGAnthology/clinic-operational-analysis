@@ -11,10 +11,10 @@ Ever wondered what goes on behind the scenes at a clinic? How long do patients r
 
 I worked with a dataset that simulates patient check-ins, appointment times, and how long they spent with the doctor. The dataset includes columns like:
 
-    ###Appointment Time: When the patient was scheduled to see the doctor.
-    ###Wait Time: How long the patient had to wait before seeing the doctor.
-    ###Service Time: The time spent in consultation.
-    ###Total Time Spent: From arrival to departure.
+    Appointment Time: When the patient was scheduled to see the doctor.
+    Wait Time: How long the patient had to wait before seeing the doctor.
+    Service Time: The time spent in consultation.
+    Total Time Spent: From arrival to departure.
 
 It's a small but mighty dataset that helps illustrate some interesting trends.
 
@@ -22,9 +22,9 @@ It's a small but mighty dataset that helps illustrate some interesting trends.
 
 Here are a few key takeaways from the analysis:
 
-    ###Early Bird Spike: There's a noticeable peak in both wait times and service times during the early morning hours. This could be due to a backlog from the first rush of patients.
-    ###Midday Dip: Things seem to calm down a bit as the morning progresses, with reduced wait times. Maybe the staff gets into the groove by then!
-    ###End of Day Crunch: Towards the end of the morning shift, we see an uptick in wait times again, possibly as the clinic prepares for the midday break or shift change.
+    Early Bird Spike: There's a noticeable peak in both wait times and service times during the early morning hours. This could be due to a backlog from the first rush of patients.
+    Midday Dip: Things seem to calm down a bit as the morning progresses, with reduced wait times. Maybe the staff gets into the groove by then!
+    End-of-Day Crunch: Towards the end of the morning shift, we see an uptick in wait times again, possibly as the clinic prepares for the midday break or shift change.
 
 I've highlighted these insights in the Tableau dashboard, which you can check out below.
 
@@ -32,8 +32,8 @@ I've highlighted these insights in the Tableau dashboard, which you can check ou
 
 I used Tableau to create a dashboard that brings these insights to life. Here’s what's included:
 
-    ###Bar Chart: Comparing service time, wait time, and total time spent relative to appointment times.
-    ###Line Chart: Showing how wait times fluctuate throughout the day.
+    Bar Chart: Comparing service time, wait time, and total time spent relative to appointment times.
+    Line Chart: Showing how wait times fluctuate throughout the day.
 
 Each visualization comes with annotations to make it easier to spot the trends. You can play around with the filters to explore different times of the day.
 
@@ -43,9 +43,9 @@ You can view the interactive Tableau dashboard here.
 
 ## How to Use This Repo
 
-    ###Data: You’ll find the dataset I used in the data/ folder. Feel free to explore it or use it for your own analysis.
-    ###Visualizations: The Tableau workbook and some screenshots are in the visualizations/ folder. You can open the Tableau file with Tableau Public or Tableau Desktop to see how it was made.
-    ###Docs: Any additional documentation is in the docs/ folder.
+    Data: You’ll find the dataset I used in the data/ folder. Feel free to explore it or use it for your own analysis.
+    Visualizations: The Tableau workbook and some screenshots are in the visualizations/ folder. You can open the Tableau file with Tableau Public or Tableau Desktop to see how it was made.
+    Docs: Any additional documentation is in the docs/ folder.
 
 ## Wrapping Up
 

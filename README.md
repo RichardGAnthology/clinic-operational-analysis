@@ -44,7 +44,7 @@ Process Mapping
 To understand the operational flow of the clinic, I also created process maps using Diagrams.net. These maps helped in visualizing the patient journey and identifying potential bottlenecks in the process:
 
     Current State Process Map: Outlines the existing patient flow from check-in to departure. This helped identify where the longest delays were occurring.
-![image](https://github.com/user-attachments/assets/bc45b6a7-7a50-49d0-abe8-a4d51f3e1540)
+![image](https://github.com/user-attachments/assets/7dc8f12d-f127-42dd-a5b1-1e6f513bdaa9)
 
     Future State Process Map: Suggested an optimized patient flow based on the insights gathered from the data analysis. This map aims to reduce wait times and streamline the consultation process.
 
